@@ -72,12 +72,12 @@ header {
 	margin-right: 1%;
 	border-radius: 3px;
 	padding-top: 20px;
-	border-bottom: 4px solid #6DC7D0;
+	border-bottom: 4px solid rgba(47,78,225,1.00);
 }
 .gallery .thumbnail h4 {
 	margin-top: 5px;
 	margin-bottom: 5px;
-	color: #52BAD5;
+	color: rgba(47,78,225,1.00);
 	text-align: left;
 	padding-left: 20px;
 	padding-right: 20px;
@@ -145,7 +145,7 @@ header {
 	transition: all 0.3s linear;
 }
 .button:hover {
-	background-color: #6DC7D0;
+	background-color: rgba(47,78,225,1.00);
 	color: #FFFFFF;
 	cursor: pointer;
 }
@@ -167,7 +167,7 @@ footer {
 }
 .intro {
 	display: inline-block;
-	background-color: #6DC7D0;
+	background-color: rgba(47,78,225,1.00);
 }
 .profile {
 	width: 50%;
